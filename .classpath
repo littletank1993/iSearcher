@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/seaglasslookandfeel-0.1.7.3 for jdk7.jar"/>
+	<classpathentry kind="lib" path="lib/seaglasslookandfeel-0.1.7.3-sources.jar"/>
+	<classpathentry kind="lib" path="lib/seaglasslookandfeel-0.1.7.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/lukeall-3.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer3.2.8.jar"/>
+	<classpathentry kind="lib" path="lib/tika-app-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/parser.jar"/>
+	<classpathentry kind="lib" path="lib/substance-4.3.jar"/>
+	<classpathentry kind="lib" path="lib/26165310623.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
